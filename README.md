@@ -1,5 +1,8 @@
 # Business Process Optimization & Efficiency Dashboard
 
+![Dashboard Overview](BUSINESS%20INSIGHTS%20Dashboard%20.png)
+# Business Process Optimization & Efficiency Dashboard
+
 ## Project Overview
 
 This project focuses on analyzing business process performance using Power BI. The dashboard helps identify bottlenecks, monitor productivity, evaluate SLA achievement, and support data-driven operational decision-making.
