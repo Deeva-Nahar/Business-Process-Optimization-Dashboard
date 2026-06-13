@@ -38,7 +38,7 @@ The dataset contains process-level operational information including:
 * SLA Achievement %
 * Error Rate %
 * Process Cost
-* Bottleneck Count
+
 
 ## Dashboard Features
 
